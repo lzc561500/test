@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-M3DH31D",
+    "children" : [ {
+      "name" : "8312-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "d15894c9a14e5a4a",
+        "parentUid" : "d2dfe6e9736458e4d3283b5b3743f27f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580832488924,
+          "stop" : 1580832488929,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d2dfe6e9736458e4d3283b5b3743f27f"
+    } ],
+    "uid" : "27eefd074077d32e6cf1f07f63a111d7"
+  } ]
+}

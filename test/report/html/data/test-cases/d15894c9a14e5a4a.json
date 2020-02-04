@@ -1,0 +1,55 @@
+{
+  "uid" : "d15894c9a14e5a4a",
+  "name" : "test_login",
+  "fullName" : "case.test_login.TestLogin#test_login",
+  "historyId" : "7a6d2930b0a0ffd413a3e9cf497aac69",
+  "time" : {
+    "start" : 1580832488924,
+    "stop" : 1580832488929,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-M3DH31D"
+  }, {
+    "name" : "thread",
+    "value" : "8312-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d15894c9a14e5a4a.json",
+  "parameterValues" : [ ]
+}
